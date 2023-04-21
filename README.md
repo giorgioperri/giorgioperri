@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello_image](https://media.licdn.com/dms/image/C4D16AQGW67ZyPu1YCg/profile-displaybackgroundimage-shrink_350_1400/0/1603972039605?e=1687392000&v=beta&t=1G6hYvl5SpAs4sHOtmpvqO5WjnMd4EsFnLLERNkJpNc)
 
 <!--
 **giorgioperri/giorgioperri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

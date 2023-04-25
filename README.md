@@ -11,4 +11,4 @@ After getting an applied science high school diploma, i moved from southern Ital
 &nbsp;
 
 # 📩 Hit me up :)
-I'm always on the hunt for fun and diverse projects to work on so feel free to drop an [e-mail](mailto:hi@giorgioperri.com) or a [message](https://www.linkedin.com/in/giorgio-perri/)! You can see more of my work on [my website](giorgioperri.com) :D
+I'm always on the hunt for fun and diverse projects to work on so feel free to drop an [e-mail](mailto:hi@giorgioperri.com) or a [message](https://www.linkedin.com/in/giorgio-perri/)! You can see more of my work on [my website](https://giorgioperri.com/) :D

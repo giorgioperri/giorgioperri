@@ -1,4 +1,4 @@
-![Hello_image](https://media.licdn.com/dms/image/C4D16AQGW67ZyPu1YCg/profile-displaybackgroundimage-shrink_350_1400/0/1603972039605?e=1687392000&v=beta&t=1G6hYvl5SpAs4sHOtmpvqO5WjnMd4EsFnLLERNkJpNc)
+![Hello_image](https://media.licdn.com/dms/image/C4D16AQGW67ZyPu1YCg/profile-displaybackgroundimage-shrink_350_1400/0/1603972039605?e=1696464000&v=beta&t=Wh9Az_VnQcWw2eRe9mn7HTZUmHLE7nO1e0PrE-3oA5s)
 
 # 👾 Nice to meet you!
 Hi there! I'm Giorgio, a Developer & Designer based in Copenhagen, who has deep experience in Game Development and Interaction Design and a strong passion for open source and data driven development.
